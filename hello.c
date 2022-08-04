@@ -2,5 +2,7 @@
 int main(int argc, const char *argv[])
 {
 	printf("hello\n");
+	printf("hello lss\n");
+	printf("hello lsh\n");
 	return 0;
 }
